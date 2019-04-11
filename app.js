@@ -1,4 +1,4 @@
-let message = "";
+// node app for showing various messages according to time of the day
 
 function showOutput() {
   const date = new Date();
